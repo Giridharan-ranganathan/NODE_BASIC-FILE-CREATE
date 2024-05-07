@@ -1,0 +1,11 @@
+{
+  "name": "girinodejs",
+  "version": "1.0.0",
+  "description": "Basic File Creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giri",
+  "license": "MIT"
+}
